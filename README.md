@@ -15,3 +15,7 @@ WIFI and Bluetooth (Had to replace the Wireless Adapter because macOS does not f
 1. Internal Microphone
 2. Earphone, Handsfree, Headphone, Headset Microphone and Audio
 3. Fingerprint
+
+Attetion:
+For USB MAP, you need to remap by yourself using USBToolbox,
+!!! DWYOR!!!
