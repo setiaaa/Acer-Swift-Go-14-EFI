@@ -1,5 +1,10 @@
 # Acer-Swift-Go-14-EFI
-macOS Sequoia EFI for Acer Swift Go 14 SFG14-41 Spec: Proc : AMD Ryzen 5 7530U RAM : 16GB LPDDRX14 VGA : IGPU AMD Radeon HD Net : Mediatek RZ616 (WIFI 6E + Bluetooth 5.2 2.4Ghz, 5Ghz, 6Ghz)
+Hackintosh Sequoia EFI for Acer Swift Go 14 SFG14-41 
+Spec: 
+Proc : AMD Ryzen 5 7530U 
+RAM  : 16GB LPDDRX14 
+GPU  : IGPU AMD Radeon HD 
+Net  : Mediatek RZ616 (WIFI 6E + Bluetooth 5.2 2.4Ghz, 5Ghz, 6Ghz)
 
 Work Confirmed:
 1. IGPU
